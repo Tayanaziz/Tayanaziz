@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Muhammad Tayan Aziz 👋
 
-<!--
-**Tayanaziz/Tayanaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Cyber Security & Digital Forensics graduate — The Islamia University of Bahawalpur, Pakistan (2026).
 
-Here are some ideas to get you started:
+🔬 **Research interests:** audio deepfake detection, multimedia forensics, voice anti-spoofing, AI security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 **Publication:** Aleem, M., Riaz, S., Aziz, M. T., & Chishti, A. R. (2025). *AI Based Deepfake Audio Detection – A Review.* Spectrum of Engineering Sciences, 3(9), 469–479. [Read paper](https://thesesjournal.com/index.php/1/article/view/994)
+
+🎓 Seeking a research-oriented master's in cyberspace security.
+
+🛠️ **Tools:** Python · Librosa · scikit-learn · XGBoost · PCA
+
+🔗 [Google Scholar](https://scholar.google.com/citations?user=yU20oLMAAAAJ) · [ORCID](https://orcid.org/0009-0005-4425-5704) · [LinkedIn](https://linkedin.com/in/tayanaziz)
